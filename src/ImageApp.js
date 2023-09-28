@@ -8,8 +8,8 @@ function ImageApp() {
       </header>
       <div className="container">
         <div className="image-container">
-          <img src="/image1.jpg" alt="Image 1" />
-          <img src="/image2.jpg" alt="Image 2" />
+          <img src="/images/image1.jpg" alt="a leather bag" />
+          <img src="/images/image2.jpg" alt="some more leather belongings" />
         </div>
       </div>
     </div>
